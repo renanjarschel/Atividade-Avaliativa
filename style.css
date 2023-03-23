@@ -1,0 +1,45 @@
+.menu{
+  /* perfil.png */
+
+
+position: absolute;
+width: 90px;
+height: 85px;
+left: 29px;
+top: 9px;
+
+background: url(perfil.png);
+border-radius: 73.5px;
+}
+.menu{
+  position: absolute;
+width: 296px;
+height: 65px;
+left: 312px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
+.menu1{
+  position: absolute;
+width: 451px;
+height: 65px;
+left: 676px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
